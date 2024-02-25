@@ -18,3 +18,8 @@ Este repositório fornece um conjunto básico de configurações e estrutura par
 - Node.js instalado
 - NPM
 - NVM (opcional)
+
+## Como Usar
+
+1. Clone este repositório
+2. Instale o Commitizen globalmente: npm install -g @ryansonshine/commitizen
